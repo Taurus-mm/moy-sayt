@@ -1,0 +1,87 @@
+h1 {
+     color: #34547a;
+     font-size: 48px;
+}
+p {
+     color: #000000;
+     font-size: 16px;
+}
+
+header {
+     background-color: #EEEFF1;
+     width: 100%;
+     display: flex;
+}
+
+body{
+     background-color: #EEEFF1;
+     width: 100%;
+}
+
+.header_logo {
+     font-family: Revalia;
+     font-style: normal;
+     font-weight: normal;
+     cursor: pointer;
+     margin-top: 57px;
+     margin-left: 402px;
+}
+.header_menu{
+     font-family: Roboto;
+     font-style: normal;  
+     font-weight: normal;
+     cursor: pointer;
+    margin-top: 79px;
+    margin-left: 300px;
+}
+a{margin-left: 42px;}
+ 
+.intro {
+
+     padding-top: 100px;
+     display: flex;
+     width: 100%;
+     justify-content: center;
+}
+
+.intro_left {
+     width: 357px;
+
+}
+
+.intro_right {
+     max-width: 541px;
+     margin-left: 130px;
+     margin-bottom: 271px;
+}
+
+.intro_title {
+    font-family: Roboto;
+font-style: normal;    
+font-weight: 500; 
+font-size: 48px;
+line-height: 79px;
+
+color:#000000;
+}
+ .about {
+     background-color: white;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
